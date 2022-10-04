@@ -34,3 +34,4 @@ build/
 
 ### yaml ###
 *.properties
+persistence.xml
