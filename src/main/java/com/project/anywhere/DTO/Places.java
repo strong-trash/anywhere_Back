@@ -16,6 +16,9 @@ public class Places {
     @Column(name="ADDR")
     private String Place_id;
     @Column
-    @OneToMany(mappedBy = "place")
+    @OneToMany(mappedBy = "place",cascade = CascadeType.ALL)
     private List<Articles> articles;
+    public void addArticles(Articles article){
+        articles.add(article);
+    }
 }
