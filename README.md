@@ -66,10 +66,12 @@ Places
     
  
 작동 원리
+
 ![그림1](https://user-images.githubusercontent.com/70366061/194986472-c8737be7-69a4-4c8f-acce-a1f37341163e.png)
 
 작동 예시
 1. 랜덤위치 받기
+2. 
 ![ezgif-2-81296ad9bb](https://user-images.githubusercontent.com/70366061/194990486-6dfe6d89-b349-411a-83e1-0fe3379d430a.gif)
 
 ![image](https://user-images.githubusercontent.com/70366061/194987182-e6362b1d-c51a-4d38-834a-70ec04f3614d.png)
