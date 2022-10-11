@@ -89,6 +89,7 @@ article_id는 무작위 생성
 ![image](https://user-images.githubusercontent.com/70366061/194988749-6dba512c-0936-419e-8b05-4db5e24b84ca.png)
 ![image](https://user-images.githubusercontent.com/70366061/194989248-a8591b8d-b773-4f6f-ab19-405d11ba2df9.png)
 ![image](https://user-images.githubusercontent.com/70366061/194989445-adc72b1a-945d-4304-8ce1-6749df459858.png)
+
 게시글 수정
 ![image](https://user-images.githubusercontent.com/70366061/194989580-e33b5622-0022-40fd-93ee-ad88ed5084ff.png)
 ![image](https://user-images.githubusercontent.com/70366061/194989655-799ce8d6-04a8-41b0-9ef1-f00cd45b070c.png)
