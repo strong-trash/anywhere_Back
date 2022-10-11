@@ -24,6 +24,7 @@ public class ArticleRepository {
             if(places==null){
                 places=new Places();
                 places.setPlace_id(article.getAddr());
+                places.setArticles(new ArrayList<>());
             }
             articles = new Articles();
             articles.setAll(article, Optional.of(places));
