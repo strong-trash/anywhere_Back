@@ -70,6 +70,8 @@ Places
 
 작동 예시
 1. 랜덤위치 받기
+![ezgif-2-81296ad9bb](https://user-images.githubusercontent.com/70366061/194990486-6dfe6d89-b349-411a-83e1-0fe3379d430a.gif)
+
 ![image](https://user-images.githubusercontent.com/70366061/194987182-e6362b1d-c51a-4d38-834a-70ec04f3614d.png)
 bigfilter: 추천 받을 카테고리 ex) 공원, 편의점, 문화시설 등
 x,y : 현재 위치의 xy 좌표
