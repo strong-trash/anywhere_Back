@@ -40,5 +40,6 @@ Places
     private List<Articles> articles;
  
 작동 원리
-[그림1](https://user-images.githubusercontent.com/70366061/194986289-fc0efafc-e753-4c03-9d4a-9ab51a0e969a.png)
+![그림1](https://user-images.githubusercontent.com/70366061/194986472-c8737be7-69a4-4c8f-acce-a1f37341163e.png)
+
 작동 예시
